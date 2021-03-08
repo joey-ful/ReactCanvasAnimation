@@ -1,1 +1,4 @@
-update에서 매번 planet의 x,y 좌표를 구한다
+### Default Setting of Canvas Animation using React
+- resize and animate functions in useEffect Hook
+- Canvas Component calling useEffect Hook
+- Ball Component drawing on Canvas
