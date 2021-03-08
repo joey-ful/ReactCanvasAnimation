@@ -1,5 +1,7 @@
 ## Default Setting of Canvas Animation using React
 
+[블로그](http://localhost:4000/canvas/react-canvas-animation-setting/#resize-canvas)
+
 ### /components/Ball.js
 - Create a draw function and pass it to Canvas.js
 
