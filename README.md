@@ -1,4 +1,12 @@
-### Default Setting of Canvas Animation using React
-- resize and animate functions in useEffect Hook
-- Canvas Component calling useEffect Hook
-- Ball Component drawing on Canvas
+## Default Setting of Canvas Animation using React
+
+### /components/Ball.js
+- Create a draw function and pass it to Canvas.js
+
+
+### /components/Canvas.js
+- Get the draw function and pass it to useCanvas.js
+
+### /Hooks/useCanvas.js
+- Resize canvas whenever window size changes
+- Animate the draw function received from Canvas.js
